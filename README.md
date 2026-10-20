@@ -2,31 +2,31 @@
 
 I'm in my last year of Computer Engineering at UPF (Barcelona) and I work as a software engineering intern at **Accenture Song**, on generative AI assistants and agents. In the evenings I do technical support at **Framer**.
 
-Most of what I know I learned by building things I actually needed: an app that tells me whether it's worth going spearfishing tomorrow, another one to run padel tournaments, a freediving trainer, and a health diary that knows what "normal" looks like for me. For my thesis I'm taking a wireless alarm apart, from its debug port to its radio.
+Most of what I know I learned by building things I actually needed: an app that tells me whether it's worth going spearfishing tomorrow, another one to run padel tournaments, a freediving trainer, and a health diary that knows what "normal" looks like for me. The biggest one is Postor, which reads Spain's public property auctions and estimates how much each one will really go for. For my thesis I'm taking a wireless alarm apart, from its debug port to its radio.
 
 ## Things I've built
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/Arnau000z/postor"><img src="assets/postor.png" alt="Postor"></a><br>
+<b><a href="https://github.com/Arnau000z/postor">Postor</a></b><br>
+Spain's public property auctions on one map, with the maths done: a price for the area, the likely final bid from a model trained on about 67,000 finished auctions, the margin and the risks. About to open at postor.es.<br>
+<sub>Python · FastAPI · SQLite · scikit-learn · MapLibre · three.js</sub>
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/Arnau000z/pesca-garraf"><img src="assets/pesca-garraf.png" alt="Pesca Garraf"></a><br>
 <b><a href="https://github.com/Arnau000z/pesca-garraf">Pesca Garraf</a></b><br>
 Scores every hour and every spot on the Garraf coast for spearfishing, ten days ahead, from more than 15 public weather and ocean sources. Sea map, radar and 3D species sheets included.<br>
 <sub>JavaScript · PWA · MapLibre · three.js · Python</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Arnau000z/padelup"><img src="assets/padelup.png" alt="PadelUp"></a><br>
 <b><a href="https://github.com/Arnau000z/padelup">PadelUp</a></b><br>
 Runs a social padel tournament from your phone: fair Americano pairings, Mexicano rounds built from the live ranking, scores, standings and a podium at the end. Works offline.<br>
 <sub>Kotlin · Jetpack Compose</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Arnau000z/abisal"><img src="assets/abisal.png" alt="Abisal"></a><br>
-<b><a href="https://github.com/Arnau000z/abisal">Abisal</a></b><br>
-Freediving training for Android. It builds CO₂ and O₂ tables from your personal best, runs the session hands-free with voice cues and keeps a logbook, with safety limits you can't skip.<br>
-<sub>Kotlin · Jetpack Compose · Coroutines</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Arnau000z/salud"><img src="assets/salud.png" alt="Salud"></a><br>
@@ -39,6 +39,7 @@ A daily health diary that compares each night with my own last two weeks instead
 
 **Also on here**
 
+- [abisal](https://github.com/Arnau000z/abisal): freediving training for Android, with CO₂/O₂ tables from your personal best, a hands-free session timer and a logbook.
 - [iot-alarm-security-thesis](https://github.com/Arnau000z/iot-alarm-security-thesis): my thesis. Debug access, custom firmware and radio analysis on a commercial wireless alarm.
 - [clarit-market](https://github.com/Arnau000z/clarit-market): type a stock ticker and get a fundamental and technical report in Spanish, written by an LLM from live market data.
 - [apuestas-bot](https://github.com/Arnau000z/apuestas-bot): looks for value bets in LaLiga and the Champions League with a Poisson / Dixon-Coles model.
@@ -49,7 +50,6 @@ A daily health diary that compares each night with my own last two weeks instead
 
 - *Barcelona: Far from home*, for the Mobile Data Challenge 2026 (Cátedra Telefónica UPF-UPC, team of 5): does mobile-network data anticipate housing pressure, neighbourhood by neighbourhood?
 - A SaaS for dental professionals where I run the technical side (Next.js, PostgreSQL, payments, two-factor auth).
-- A real-estate auction analytics platform built on open public data (Python, FastAPI, maps).
 - A browser game portal for my friends: 17 real-time multiplayer games with server-side simulation (Node.js, WebSockets).
 - A commit-reveal auction protocol with smart contracts, built at a [hackathon](https://github.com/MarcLopezCampillejo/oscarshackathon) in March 2026.
 
