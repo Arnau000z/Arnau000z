@@ -61,6 +61,6 @@ Plus LLM APIs and agents, pandas, Ghidra and Wireshark.
 
 ## About me
 
-BSc in Computer Engineering at Universitat Pompeu Fabra (2022–2027, taught in English), with an Erasmus year at Babeș-Bolyai University in Cluj-Napoca (2025–2026). I speak Catalan, Spanish and English, and I'm slowly learning Japanese. I'm most interested in applied AI and in security, especially digital forensics and reversing.
+BSc in Computer Engineering at Universitat Pompeu Fabra (2022–2027, taught in English), with an Erasmus year at Babeș-Bolyai University in Cluj-Napoca (2025–2026). I speak Catalan, Spanish and English, and I'm slowly learning Japanese. I'm most interested in applied AI, data science, automation and cybersecurity.
 
 [LinkedIn](https://www.linkedin.com/in/arnau000z)
