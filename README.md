@@ -23,10 +23,10 @@ Scores every hour and every spot on the Garraf coast for spearfishing, ten days 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Arnau000z/padelup"><img src="assets/padelup.png" alt="PadelUp"></a><br>
-<b><a href="https://github.com/Arnau000z/padelup">PadelUp</a></b><br>
-Runs a social padel tournament from your phone: fair Americano pairings, Mexicano rounds built from the live ranking, scores, standings and a podium at the end. Works offline.<br>
-<sub>Kotlin · Jetpack Compose</sub>
+<a href="https://github.com/Arnau000z/placa-velocidad"><img src="assets/math-on-the-edge.png" alt="Math on the Edge"></a><br>
+<b><a href="https://github.com/Arnau000z/placa-velocidad">Math on the Edge</a></b> 🏆<br>
+Winner of the Qualcomm challenge at Datathon FME 2026, with a team of four. A math copilot that solves Kangaroo problems in English and Catalan fully offline on an Arduino UNO Q: a fine-tuned Qwen3-1.7B writes a short Python program and the board runs it. 20 out of 20 on the final exam. Plus Math Coach, a classroom app with hints that never give the answer away.<br>
+<sub>Python · Qwen3 · LoRA · llama.cpp · Arduino UNO Q</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Arnau000z/salud"><img src="assets/salud.png" alt="Salud"></a><br>
@@ -39,6 +39,7 @@ A daily health diary that compares each night with my own last two weeks instead
 
 **Also on here**
 
+- [padelup](https://github.com/Arnau000z/padelup): runs a social padel tournament from your phone, with fair Americano pairings, Mexicano rounds from the live ranking, scores and standings. Works offline.
 - [abisal](https://github.com/Arnau000z/abisal): freediving training for Android, with CO₂/O₂ tables from your personal best, a hands-free session timer and a logbook.
 - [iot-alarm-security-thesis](https://github.com/Arnau000z/iot-alarm-security-thesis): my thesis. Debug access, custom firmware and radio analysis on a commercial wireless alarm.
 - [clarit-market](https://github.com/Arnau000z/clarit-market): type a stock ticker and get a fundamental and technical report in Spanish, written by an LLM from live market data.
