@@ -23,8 +23,8 @@ Scores every hour and every spot on the Garraf coast for spearfishing, ten days 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Arnau000z/placa-velocidad"><img src="assets/math-on-the-edge.png" alt="Math on the Edge"></a><br>
-<b><a href="https://github.com/Arnau000z/placa-velocidad">Math on the Edge</a></b> 🏆<br>
+<a href="https://github.com/Arnau000z/math-on-the-edge"><img src="assets/math-on-the-edge.png" alt="Math on the Edge"></a><br>
+<b><a href="https://github.com/Arnau000z/math-on-the-edge">Math on the Edge</a></b> 🏆<br>
 Winner of the Qualcomm challenge at Datathon FME 2026, with a team of four. A math copilot that solves Kangaroo problems in English and Catalan fully offline on an Arduino UNO Q: a fine-tuned Qwen3-1.7B writes a short Python program and the board runs it. 20 out of 20 on the final exam. Plus Math Coach, a classroom app with hints that never give the answer away.<br>
 <sub>Python · Qwen3 · LoRA · llama.cpp · Arduino UNO Q</sub>
 </td>
